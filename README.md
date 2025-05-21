@@ -1,4 +1,4 @@
-# SafeScope
+# SafeScope 🕵️‍♂️
 
 SafeScope is a computer vision application that detects firearms and analyzes their association with uniformed vs. non-uniformed personnel. It provides instant threat level assessment (Low/Medium/High) with actionable security recommendations.
 
