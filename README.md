@@ -2,7 +2,7 @@
 
 SafeScope is a computer vision application that detects firearms and analyzes their association with uniformed vs. non-uniformed personnel. It provides instant threat level assessment (Low/Medium/High) with actionable security recommendations.
 
-##Try it Out
+Try it Out
 https://safescope.streamlit.app/
 
 ## Key Features
